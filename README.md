@@ -6,6 +6,8 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
 Using autoencoder, we are trying to remove the noise added in the encoder part and tent to get the output which should be same as the input with minimal loss. The dataset which is used is mnist dataset.
+
+
 <img width="207" alt="image" src="https://github.com/Nagadurg/convolutional-denoising-autoencoder/assets/94185707/ee52c67f-44a6-45c0-acf7-e0b55800aaec">
 
 
@@ -130,7 +132,5 @@ plt.show()
 <img width="344" alt="image" src="https://github.com/Nagadurg/convolutional-denoising-autoencoder/assets/94185707/3d998efe-8774-4507-ba8b-c9012e93e6ab">
 
 
-
-
-
 ## RESULT
+Thus, a Convolutional Auto Encoder for Denoising was sucessfully implemented.
